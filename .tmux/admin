@@ -1,0 +1,2 @@
+splitw -v -p 66
+splitw -v -p 50 'irssi -c irc.corp.google.com'
